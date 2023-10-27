@@ -15,5 +15,5 @@
   <a href="github.com/lyrain2001"><kbd>maybe my website?</kbd></a>
   </p>
   
-  <p align="center">🌟inspired by <a href="https://github.com/chumbud">chumbud</a> and <a https://github.com/Ireneruru>Ireneruru.</a>🌟</p></p>
+  <p align="center">🌟inspired by <a href="https://github.com/chumbud">chumbud</a> and <a href="https://github.com/Ireneruru">Ireneruru</a>.🌟</p></p>
 </details>
