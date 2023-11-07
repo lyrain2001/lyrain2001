@@ -3,5 +3,3 @@
 <p align="center"><strong>✨Hi!!🪐</strong></p>
 <p align="left">My name is Yurong Liu, a first-year CS Ph.D. at New York University. I want to bridge the gap between theory and practice in data management.</p>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyrain2001\&layout=compact)
